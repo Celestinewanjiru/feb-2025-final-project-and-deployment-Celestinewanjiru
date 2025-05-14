@@ -1,25 +1,91 @@
-# Final Project and Deployment
+<h1>🎮 Roblox Gaming Website - Project Documentation<h1></h1>
+Live Link: https://sensational-cupcake-78bf67.netlify.app/
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+<h3>📌 Project Overview</h3>
+The Roblox Gaming Website is a responsive, multi-page portfolio that showcases information about popular Roblox games, genres, and contact options. Built using HTML5, CSS3, and JavaScript, it includes interactive features and animations to provide an engaging user experience.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+<h3>📄 Pages Included</h3>
+Home (index.html)
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+Welcomes users with an introduction to the Roblox gaming world.
 
-## Tasks
+Features smooth CSS transitions and stylish button effects.
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+About (about.html)
 
-Good luck and happy coding! 🚀💻
+Displays game genres (e.g., Action, Tycoon, Roleplay) using PNG images.
+
+Includes a responsive photo gallery.
+
+Follows consistent branding and theme.
+
+Contact (contact.html)
+
+Users can submit their name and message.
+
+Basic JavaScript validation is applied (if required).
+
+Connected to all pages via a responsive navigation bar.
+
+<h3>🎨 Design & Color Scheme</h3>
+Primary Colors: Blue, White, and Black
+
+Hover Color: Orange to Black transition
+
+Accent: Baby blue gradients
+
+Buttons: Black with white text, drop shadows
+
+Navigation Bar: Right-aligned, hover underline, and active link glows blue
+
+<h3>💻 Technologies Used</h3>h3>
+HTML5: Page structure, semantic tags
+
+CSS3: Layouts, animations, transitions, media queries for responsive design
+
+JavaScript: Interactivity, localStorage, responsive navbar toggle
+
+Netlify: Deployment platform
+
+<h3>📱 Responsive Design</h3>h3>
+Layout adjusts to mobile and tablet screen sizes using CSS media queries.
+
+Hamburger menu implemented for mobile navigation.
+
+Grid and flexbox used for layout adaptability.
+
+🧠 Key Features
+CSS animations and transitions
+
+JavaScript-powered localStorage and interactivity
+
+Responsive navigation with active page highlighting
+
+Image gallery with hover effects
+
+Fully responsive layout
+
+🛠 How It Was Built
+Developed using VS Code with live server testing
+
+Image assets placed in an images/ folder and referenced with relative paths
+
+CSS and JavaScript are modular and reusable across all pages
+
+Deployed using Netlify with drag-and-drop simplicity
+
+✅ How to View
+Visit the live website:
+👉 https://sensational-cupcake-78bf67.netlify.app/
+
+You can also clone or download the project folder to view it locally:
+
+diff
+Copy
+Edit
+- index.html
+- about.html
+- contact.html
+- style.css
+- script.js
+- /images (folder with .png files)
